@@ -1,0 +1,7 @@
+.vscode
+tests
+unsplash-doc
+__pycache__
+build
+dist
+unsplashpy.egg-info
